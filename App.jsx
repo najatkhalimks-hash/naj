@@ -202,7 +202,7 @@ export default function App() {
       {/* Hero */}
       <div style={{ background: C.navy, padding: '56px 24px 48px', textAlign: 'center' }}>
         <p style={{ color: C.gold, fontSize: 11, letterSpacing: '.14em', textTransform: 'uppercase', margin: '0 0 16px', fontWeight: 600 }}>
-          GSMI — Green & Sustainable Mining Institute  ·  UM6P
+          GSMI — Geology & Sustainable Mining Institute  ·  UM6P
         </p>
         <h1 style={{ color: '#fff', fontSize: 36, fontWeight: 700, margin: '0 0 12px', lineHeight: 1.1 }}>
           Carnet du Chercheur
